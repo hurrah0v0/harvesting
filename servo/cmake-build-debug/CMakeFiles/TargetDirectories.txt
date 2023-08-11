@@ -1,0 +1,3 @@
+D:/CubemxRecord/servo/cmake-build-debug/CMakeFiles/servo.elf.dir
+D:/CubemxRecord/servo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CubemxRecord/servo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

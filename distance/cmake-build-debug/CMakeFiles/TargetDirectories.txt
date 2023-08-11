@@ -1,0 +1,3 @@
+D:/CubemxRecord/distance/cmake-build-debug/CMakeFiles/distance.elf.dir
+D:/CubemxRecord/distance/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CubemxRecord/distance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
